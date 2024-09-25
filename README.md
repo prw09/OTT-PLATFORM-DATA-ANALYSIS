@@ -1,3 +1,5 @@
+![Uploading Screenshot 2024-09-25 123048.png…]()
+
 # 📊 OTT-PLATFORM-DATA-ANALYSIS
 
 This project involves analyzing the Netflix content dataset using SQL to extract valuable insights and answer business-related questions. The dataset contains information about movies and TV shows available on Netflix, including cast details, country of production, release year, ratings, and more.
